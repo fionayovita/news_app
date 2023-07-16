@@ -13,5 +13,5 @@ A news app created with Flutter
     <td><img alt='Splash Screen' src="https://github.com/fionayovita/images/blob/main/unibike%20assets/SplashScreenNewsApp%20(2).png" width="200"></td>
     <td><img alt='Main Screen' src="https://github.com/fionayovita/images/blob/main/unibike%20assets/MianScreenNewsApp.png" width="200"></td>
     <td><img alt='List News Screen' src="https://github.com/fionayovita/images/blob/main/unibike%20assets/ListNewsScreenNewsApp.png" width="200"></td>
-    <td><img alt='Detail News Screen' src="https://github.com/fionayovita/images/blob/main/unibike%20assets/register.jpg" width="200"></td>
+    <td><img alt='Detail News Screen' src="https://github.com/fionayovita/images/blob/main/unibike%20assets/DetailNewsScreenNewsApp.png" width="200"></td>
   </tr>
